@@ -1,7 +1,5 @@
 # Claims Processing System
 
-*Disclaimer: This document uses fictional names for the project and client for illustrative and educational use only. Any resemblance to real entities is coincidental.*
-
 ## Introduction
 
 The Claims Processing System for Statewide Insurance Group is a centralized platform designed to manage and process insurance claims efficiently. This system aims to streamline the claims handling process by consolidating data from various internal and external sources such as client databases and insurance databases. The system provides real-time updates on claim status, automates the evaluation of claims through preset rules, and offers detailed reporting features for insurance agents and clients. The design is based on a monolithic architecture to facilitate ease of deployment, simpler scalability options, and straightforward maintenance.
